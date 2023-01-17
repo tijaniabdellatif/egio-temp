@@ -1,0 +1,1759 @@
+{
+    "failed_arr": [
+        {
+            "id": "17116",
+            "city": 6,
+            "cat": 10050,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10050",
+            "old_user": "0"
+        },
+        {
+            "id": "17114",
+            "city": 6,
+            "cat": 10039,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10039",
+            "old_user": "0"
+        },
+        {
+            "id": "17111",
+            "city": 6,
+            "cat": 10071,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10071",
+            "old_user": "0"
+        },
+        {
+            "id": "17108",
+            "city": 6,
+            "cat": 10040,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10040",
+            "old_user": "0"
+        },
+        {
+            "id": "17103",
+            "city": 6,
+            "cat": 10050,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10050",
+            "old_user": "0"
+        },
+        {
+            "id": "17094",
+            "city": 6,
+            "cat": 10050,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10050",
+            "old_user": "0"
+        },
+        {
+            "id": "17093",
+            "city": 6,
+            "cat": 10050,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10050",
+            "old_user": "0"
+        },
+        {
+            "id": "14124",
+            "city": null,
+            "cat": 10054,
+            "user": 587,
+            "old_city": "",
+            "old_cat": "10054",
+            "old_user": "587"
+        },
+        {
+            "id": "12553",
+            "city": null,
+            "cat": 10052,
+            "user": 351,
+            "old_city": "",
+            "old_cat": "10052",
+            "old_user": "351"
+        },
+        {
+            "id": "21345",
+            "city": null,
+            "cat": 10061,
+            "user": 2200,
+            "old_city": "sidi rehal",
+            "old_cat": "10061",
+            "old_user": "2200"
+        },
+        {
+            "id": "17089",
+            "city": 6,
+            "cat": 10050,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10050",
+            "old_user": "0"
+        },
+        {
+            "id": "17084",
+            "city": 6,
+            "cat": 10050,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10050",
+            "old_user": "0"
+        },
+        {
+            "id": "17082",
+            "city": 6,
+            "cat": 10050,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10050",
+            "old_user": "0"
+        },
+        {
+            "id": "17078",
+            "city": 6,
+            "cat": 10050,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10050",
+            "old_user": "0"
+        },
+        {
+            "id": "17069",
+            "city": 6,
+            "cat": 10050,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10050",
+            "old_user": "0"
+        },
+        {
+            "id": "17067",
+            "city": 6,
+            "cat": 10039,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10039",
+            "old_user": "0"
+        },
+        {
+            "id": "17066",
+            "city": 6,
+            "cat": 10040,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10040",
+            "old_user": "0"
+        },
+        {
+            "id": "17062",
+            "city": 6,
+            "cat": 10050,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10050",
+            "old_user": "0"
+        },
+        {
+            "id": "17059",
+            "city": 6,
+            "cat": 10040,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10040",
+            "old_user": "0"
+        },
+        {
+            "id": "17055",
+            "city": 6,
+            "cat": 10050,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10050",
+            "old_user": "0"
+        },
+        {
+            "id": "17041",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "Assinie",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17040",
+            "city": null,
+            "cat": 10043,
+            "user": 157,
+            "old_city": "Abidjan",
+            "old_cat": "10043",
+            "old_user": "157"
+        },
+        {
+            "id": "36433",
+            "city": 2,
+            "cat": 10039,
+            "user": null,
+            "old_city": "Casablanca",
+            "old_cat": "10039",
+            "old_user": "6231"
+        },
+        {
+            "id": "11848",
+            "city": null,
+            "cat": 10039,
+            "user": 204,
+            "old_city": "",
+            "old_cat": "10039",
+            "old_user": "204"
+        },
+        {
+            "id": "12224",
+            "city": 8,
+            "cat": 10042,
+            "user": null,
+            "old_city": "Rabat",
+            "old_cat": "10042",
+            "old_user": "301"
+        },
+        {
+            "id": "12225",
+            "city": 8,
+            "cat": 10050,
+            "user": null,
+            "old_city": "Rabat",
+            "old_cat": "10050",
+            "old_user": "301"
+        },
+        {
+            "id": "17063",
+            "city": 6,
+            "cat": 10050,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10050",
+            "old_user": "0"
+        },
+        {
+            "id": "13278",
+            "city": null,
+            "cat": 10068,
+            "user": 464,
+            "old_city": "",
+            "old_cat": "10068",
+            "old_user": "464"
+        },
+        {
+            "id": "14049",
+            "city": null,
+            "cat": 10039,
+            "user": 464,
+            "old_city": "",
+            "old_cat": "10039",
+            "old_user": "464"
+        },
+        {
+            "id": "14058",
+            "city": null,
+            "cat": 10054,
+            "user": 398,
+            "old_city": "Tamesluht",
+            "old_cat": "10054",
+            "old_user": "398"
+        },
+        {
+            "id": "14169",
+            "city": null,
+            "cat": 10064,
+            "user": 364,
+            "old_city": "",
+            "old_cat": "10064",
+            "old_user": "364"
+        },
+        {
+            "id": "14183",
+            "city": null,
+            "cat": 10054,
+            "user": 640,
+            "old_city": "Sidi Abdellah Ghiat",
+            "old_cat": "10054",
+            "old_user": "640"
+        },
+        {
+            "id": "14445",
+            "city": null,
+            "cat": 10039,
+            "user": 584,
+            "old_city": "maroc",
+            "old_cat": "10039",
+            "old_user": "584"
+        },
+        {
+            "id": "16983",
+            "city": 6,
+            "cat": 10040,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10040",
+            "old_user": "0"
+        },
+        {
+            "id": "15308",
+            "city": 6,
+            "cat": 10040,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10040",
+            "old_user": "0"
+        },
+        {
+            "id": "16993",
+            "city": 6,
+            "cat": 10040,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10040",
+            "old_user": "0"
+        },
+        {
+            "id": "15317",
+            "city": 6,
+            "cat": 10040,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10040",
+            "old_user": "0"
+        },
+        {
+            "id": "15372",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "Assinie",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "25460",
+            "city": null,
+            "cat": 10054,
+            "user": 884,
+            "old_city": "Steha",
+            "old_cat": "10054",
+            "old_user": "884"
+        },
+        {
+            "id": "16125",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "Mykonos",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "16137",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "166",
+            "old_user": "0"
+        },
+        {
+            "id": "16138",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "166",
+            "old_user": "0"
+        },
+        {
+            "id": "16139",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "157",
+            "old_user": "0"
+        },
+        {
+            "id": "16140",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "158",
+            "old_user": "0"
+        },
+        {
+            "id": "16141",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "158",
+            "old_user": "0"
+        },
+        {
+            "id": "16142",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "305",
+            "old_user": "0"
+        },
+        {
+            "id": "16143",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "305",
+            "old_user": "0"
+        },
+        {
+            "id": "16144",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "158",
+            "old_user": "0"
+        },
+        {
+            "id": "16145",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "162",
+            "old_user": "0"
+        },
+        {
+            "id": "16146",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "159",
+            "old_user": "0"
+        },
+        {
+            "id": "16147",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "162",
+            "old_user": "0"
+        },
+        {
+            "id": "16149",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "163",
+            "old_user": "0"
+        },
+        {
+            "id": "16150",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "305",
+            "old_user": "0"
+        },
+        {
+            "id": "16151",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "157",
+            "old_user": "0"
+        },
+        {
+            "id": "16152",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "159",
+            "old_user": "0"
+        },
+        {
+            "id": "16153",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "159",
+            "old_user": "0"
+        },
+        {
+            "id": "16154",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "159",
+            "old_user": "0"
+        },
+        {
+            "id": "16155",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "158",
+            "old_user": "0"
+        },
+        {
+            "id": "16156",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "159",
+            "old_user": "0"
+        },
+        {
+            "id": "16157",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "162",
+            "old_user": "0"
+        },
+        {
+            "id": "16158",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "159",
+            "old_user": "0"
+        },
+        {
+            "id": "16159",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "161",
+            "old_user": "0"
+        },
+        {
+            "id": "16160",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "163",
+            "old_user": "0"
+        },
+        {
+            "id": "16161",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "159",
+            "old_user": "0"
+        },
+        {
+            "id": "16162",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "161",
+            "old_user": "0"
+        },
+        {
+            "id": "16163",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "159",
+            "old_user": "0"
+        },
+        {
+            "id": "16164",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "163",
+            "old_user": "0"
+        },
+        {
+            "id": "16165",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "159",
+            "old_user": "0"
+        },
+        {
+            "id": "16166",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "162",
+            "old_user": "0"
+        },
+        {
+            "id": "16167",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "161",
+            "old_user": "0"
+        },
+        {
+            "id": "16168",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "161",
+            "old_user": "0"
+        },
+        {
+            "id": "16169",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "158",
+            "old_user": "0"
+        },
+        {
+            "id": "16170",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "159",
+            "old_user": "0"
+        },
+        {
+            "id": "16172",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "160",
+            "old_user": "0"
+        },
+        {
+            "id": "16173",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "162",
+            "old_user": "0"
+        },
+        {
+            "id": "16174",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "162",
+            "old_user": "0"
+        },
+        {
+            "id": "16175",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "162",
+            "old_user": "0"
+        },
+        {
+            "id": "16176",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "159",
+            "old_user": "0"
+        },
+        {
+            "id": "16177",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "162",
+            "old_user": "0"
+        },
+        {
+            "id": "16178",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "163",
+            "old_user": "0"
+        },
+        {
+            "id": "16179",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "162",
+            "old_user": "0"
+        },
+        {
+            "id": "16180",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "159",
+            "old_user": "0"
+        },
+        {
+            "id": "16181",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "163",
+            "old_user": "0"
+        },
+        {
+            "id": "16182",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "162",
+            "old_user": "0"
+        },
+        {
+            "id": "16183",
+            "city": 5,
+            "cat": null,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "163",
+            "old_user": "0"
+        },
+        {
+            "id": "35655",
+            "city": 2,
+            "cat": 10039,
+            "user": null,
+            "old_city": "Casablanca",
+            "old_cat": "10039",
+            "old_user": "6207"
+        },
+        {
+            "id": "36059",
+            "city": 2,
+            "cat": 10039,
+            "user": null,
+            "old_city": "Casablanca",
+            "old_cat": "10039",
+            "old_user": "6210"
+        },
+        {
+            "id": "17132",
+            "city": 6,
+            "cat": 10040,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10040",
+            "old_user": "0"
+        },
+        {
+            "id": "17144",
+            "city": 6,
+            "cat": 10040,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10040",
+            "old_user": "0"
+        },
+        {
+            "id": "17167",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17168",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17169",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17170",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17171",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17172",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17173",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17174",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17175",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17176",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17177",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17178",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17179",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17180",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17181",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17182",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17183",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17184",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17185",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17186",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17187",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17188",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17189",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17190",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17191",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17192",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17193",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17194",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17195",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17196",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17197",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17198",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17199",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17200",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17201",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17202",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17203",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17204",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17205",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17206",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17207",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17208",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17209",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17210",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17211",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17212",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17213",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17214",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17215",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17216",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17217",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17218",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17219",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17220",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17221",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17222",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17223",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17224",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17225",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17226",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17227",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17228",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17229",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17230",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17231",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17232",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17233",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17234",
+            "city": null,
+            "cat": 10071,
+            "user": 157,
+            "old_city": "",
+            "old_cat": "10071",
+            "old_user": "157"
+        },
+        {
+            "id": "17671",
+            "city": null,
+            "cat": 10059,
+            "user": 149,
+            "old_city": "",
+            "old_cat": "10059",
+            "old_user": "149"
+        },
+        {
+            "id": "35738",
+            "city": 8,
+            "cat": 10039,
+            "user": null,
+            "old_city": "Rabat",
+            "old_cat": "10039",
+            "old_user": "6209"
+        },
+        {
+            "id": "35586",
+            "city": 2,
+            "cat": 10058,
+            "user": null,
+            "old_city": "Casablanca",
+            "old_cat": "10058",
+            "old_user": "6204"
+        },
+        {
+            "id": "35500",
+            "city": 18,
+            "cat": 10050,
+            "user": null,
+            "old_city": "Mohammedia",
+            "old_cat": "10050",
+            "old_user": "6201"
+        },
+        {
+            "id": "36413",
+            "city": 2,
+            "cat": 10064,
+            "user": null,
+            "old_city": "Casablanca",
+            "old_cat": "10064",
+            "old_user": "6226"
+        },
+        {
+            "id": "36473",
+            "city": 6,
+            "cat": 10043,
+            "user": null,
+            "old_city": "Marrakech",
+            "old_cat": "10043",
+            "old_user": "6234"
+        },
+        {
+            "id": "36056",
+            "city": 2,
+            "cat": 10042,
+            "user": null,
+            "old_city": "Casablanca",
+            "old_cat": "10042",
+            "old_user": "6218"
+        },
+        {
+            "id": "21280",
+            "city": null,
+            "cat": 10055,
+            "user": 1706,
+            "old_city": "Sidi Abderrazzak Khzazna",
+            "old_cat": "10055",
+            "old_user": "1706"
+        },
+        {
+            "id": "36241",
+            "city": 58,
+            "cat": 10039,
+            "user": null,
+            "old_city": "Martil",
+            "old_cat": "10039",
+            "old_user": "6223"
+        },
+        {
+            "id": "35762",
+            "city": 92,
+            "cat": 10055,
+            "user": null,
+            "old_city": "Biougra",
+            "old_cat": "10055",
+            "old_user": "6211"
+        },
+        {
+            "id": "35760",
+            "city": 2,
+            "cat": 10039,
+            "user": null,
+            "old_city": "Casablanca",
+            "old_cat": "10039",
+            "old_user": "6210"
+        },
+        {
+            "id": "36229",
+            "city": 2,
+            "cat": 10059,
+            "user": null,
+            "old_city": "Casablanca",
+            "old_cat": "10059",
+            "old_user": "6221"
+        },
+        {
+            "id": "36432",
+            "city": 18,
+            "cat": 10040,
+            "user": null,
+            "old_city": "Mohammedia",
+            "old_cat": "10040",
+            "old_user": "6229"
+        },
+        {
+            "id": "21582",
+            "city": 251,
+            "cat": 10054,
+            "user": null,
+            "old_city": "tata",
+            "old_cat": "10054",
+            "old_user": "2310"
+        },
+        {
+            "id": "21583",
+            "city": 2,
+            "cat": 10039,
+            "user": null,
+            "old_city": "Casablanca",
+            "old_cat": "10039",
+            "old_user": "2304"
+        },
+        {
+            "id": "21592",
+            "city": 2,
+            "cat": 10039,
+            "user": null,
+            "old_city": "Casablanca",
+            "old_cat": "10039",
+            "old_user": "2321"
+        },
+        {
+            "id": "21594",
+            "city": null,
+            "cat": 10055,
+            "user": 2327,
+            "old_city": "",
+            "old_cat": "10055",
+            "old_user": "2327"
+        },
+        {
+            "id": "21600",
+            "city": 12,
+            "cat": 10064,
+            "user": null,
+            "old_city": "Oujda",
+            "old_cat": "10064",
+            "old_user": "2329"
+        },
+        {
+            "id": "21606",
+            "city": 8,
+            "cat": 10042,
+            "user": null,
+            "old_city": "Rabat",
+            "old_cat": "10042",
+            "old_user": "2339"
+        },
+        {
+            "id": "21612",
+            "city": null,
+            "cat": 10055,
+            "user": 2344,
+            "old_city": "khmiss ait aamira",
+            "old_cat": "10055",
+            "old_user": "2344"
+        },
+        {
+            "id": "21614",
+            "city": 2,
+            "cat": 10039,
+            "user": null,
+            "old_city": "Casablanca",
+            "old_cat": "10039",
+            "old_user": "2345"
+        },
+        {
+            "id": "35568",
+            "city": 2,
+            "cat": 10040,
+            "user": null,
+            "old_city": "Casablanca",
+            "old_cat": "10040",
+            "old_user": "6203"
+        },
+        {
+            "id": "21683",
+            "city": null,
+            "cat": 10054,
+            "user": null,
+            "old_city": "Aarjate",
+            "old_cat": "10054",
+            "old_user": "2355"
+        },
+        {
+            "id": "21725",
+            "city": 58,
+            "cat": 10055,
+            "user": null,
+            "old_city": "martil",
+            "old_cat": "10055",
+            "old_user": "2369"
+        },
+        {
+            "id": "22028",
+            "city": null,
+            "cat": 10054,
+            "user": 2554,
+            "old_city": "Had El Brachoua",
+            "old_cat": "10054",
+            "old_user": "2554"
+        },
+        {
+            "id": "22165",
+            "city": null,
+            "cat": 10064,
+            "user": 2097,
+            "old_city": "",
+            "old_cat": "10064",
+            "old_user": "2097"
+        },
+        {
+            "id": "22200",
+            "city": null,
+            "cat": 10055,
+            "user": 2703,
+            "old_city": "Ej Jemâa El Houdrane",
+            "old_cat": "10055",
+            "old_user": "2703"
+        },
+        {
+            "id": "22443",
+            "city": null,
+            "cat": 10068,
+            "user": 2859,
+            "old_city": "Maroc",
+            "old_cat": "10068",
+            "old_user": "2859"
+        },
+        {
+            "id": "24360",
+            "city": null,
+            "cat": 10050,
+            "user": 884,
+            "old_city": "Mallalienne",
+            "old_cat": "10050",
+            "old_user": "884"
+        },
+        {
+            "id": "23979",
+            "city": 5,
+            "cat": 10042,
+            "user": null,
+            "old_city": "Tanger",
+            "old_cat": "10042",
+            "old_user": "0"
+        },
+        {
+            "id": "27686",
+            "city": null,
+            "cat": 10055,
+            "user": 4209,
+            "old_city": "El Menzeh",
+            "old_cat": "10055",
+            "old_user": "4209"
+        },
+        {
+            "id": "28602",
+            "city": null,
+            "cat": 10055,
+            "user": 184,
+            "old_city": "El Menzeh",
+            "old_cat": "10055",
+            "old_user": "184"
+        },
+        {
+            "id": "27894",
+            "city": null,
+            "cat": 10040,
+            "user": 4209,
+            "old_city": "El Menzeh",
+            "old_cat": "10040",
+            "old_user": "4209"
+        },
+        {
+            "id": "28504",
+            "city": null,
+            "cat": 10055,
+            "user": 1254,
+            "old_city": "El Menzeh",
+            "old_cat": "10055",
+            "old_user": "1254"
+        },
+        {
+            "id": "30690",
+            "city": null,
+            "cat": 10042,
+            "user": 5451,
+            "old_city": "El Menzeh",
+            "old_cat": "10042",
+            "old_user": "5451"
+        },
+        {
+            "id": "30779",
+            "city": null,
+            "cat": 10055,
+            "user": 5518,
+            "old_city": "Imouzzer-Kendar",
+            "old_cat": "10055",
+            "old_user": "5518"
+        },
+        {
+            "id": "36295",
+            "city": 2,
+            "cat": 10064,
+            "user": null,
+            "old_city": "Casablanca",
+            "old_cat": "10064",
+            "old_user": "6225"
+        },
+        {
+            "id": "36194",
+            "city": 2,
+            "cat": 10058,
+            "user": null,
+            "old_city": "Casablanca",
+            "old_cat": "10058",
+            "old_user": "6219"
+        }
+    ]
+}

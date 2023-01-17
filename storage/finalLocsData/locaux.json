@@ -1,0 +1,25 @@
+{
+
+    "fields":{
+
+             "standing":"false",
+             "pieces":"false",
+             "chambres":"false",
+             "bath":"false",
+             "parking":"false",
+             "date":"true",
+             "pricem":"true",
+             "pool":"false",
+             "surface":"true",
+             "meuble":"true",
+             "terace":"false",
+             "garden":"false",
+             "ac":"true",
+             "syndic":"false",
+             "cave":"true",
+             "elevator":"false",
+             "security":"false"
+
+    }
+
+}

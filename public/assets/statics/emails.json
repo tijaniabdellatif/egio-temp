@@ -1,0 +1,108 @@
+[
+    {
+        "name": "ad published",
+        "folder": "AdPublished",
+        "lang": "fr"
+    },
+    {
+        "name": "ad expired",
+        "folder": "AdExpired",
+        "lang": "fr"
+    },
+
+    {
+        "name": "ad pending",
+        "folder": "AdPending",
+        "lang": "fr"
+    },
+    {
+        "name": "ad deleted",
+        "folder": "AdDeleted",
+        "lang": "fr"
+    },
+    {
+        "name": "ad rejected",
+        "folder": "AdRejected",
+        "lang": "fr"
+    },
+    {
+        "name": "ad in review",
+        "folder": "AdReview",
+        "lang": "fr"
+    },
+    {
+        "name": "ad boosted",
+        "folder": "AdBoosted",
+        "lang": "fr"
+    },
+    {
+        "name": "balance updated",
+        "folder": "Balance",
+        "lang": "fr"
+    },
+    {
+        "name": "Contrat",
+        "folder": "Contract",
+        "lang": "fr"
+    },
+    {
+        "name": "user registred",
+        "folder": "UserRegistred",
+        "lang": "fr"
+    },
+    {
+        "name": "Contact form",
+        "folder": "Contact",
+        "lang": "fr"
+    },
+    {
+        "name": "Reset Password",
+        "folder": "ResetPassword",
+        "lang": "fr"
+    },
+    {
+        "name": "Ad Will Expire",
+        "folder": "WillExpire",
+        "lang": "fr"
+    },
+    {
+        "name": "User Boost Ad",
+        "folder": "UserBoostAd",
+        "lang": "fr"
+    },
+    {
+        "name": "User Delete Ad",
+        "folder": "UserDeleteAd",
+        "lang": "fr"
+    },
+    {
+        "name": "User Update Ad",
+        "folder": "UserUpdateAd",
+        "lang": "fr"
+    },
+    {
+        "name": "Report Abus",
+        "folder": "ReportAbus",
+        "lang": "fr"
+    },
+    {
+        "name": "New Reservation",
+        "folder": "NewReservation",
+        "lang": "fr"
+    },
+    {
+        "name": "Reservation",
+        "folder": "Reservation",
+        "lang": "fr"
+    },
+    {
+        "name": "Facebook registration",
+        "folder": "UserFacebook",
+        "lang": "fr"
+    },
+    {
+        "name": "Google registration",
+        "folder": "UserGoogle",
+        "lang": "fr"
+    }
+]

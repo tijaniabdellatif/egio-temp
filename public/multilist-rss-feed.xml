@@ -1,0 +1,54 @@
+<MULTI_XML>
+<annonce>
+<!-- ************************************CHAMPS OBLIGATOIRE************************************************** -->
+<id>1</id>
+<titre>
+<![CDATA[ title TEST ]]>
+</titre>
+<description>
+<![CDATA[ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ]]>
+</description>
+<prix>800000</prix>
+<prix_devise>DHS</prix_devise>
+<!--  MAD|EUR|USD  -->
+<type>vente</type>
+<!--  vente|location|courte durée  -->
+<type_de_bien>villa</type_de_bien>
+<!--   villa|appartement|studio|maison|bureau|local commercial|Entrepôt dépôts|local industriel|terrain agricole|terrain à nus|riad|Bungalows|Cabanons|Chalets|Chambre à louer  -->
+<ville>Casablanca</ville>
+<quartier>Maarif</quartier>
+<surface>100</surface>
+<!-- ************************************************************************************** -->
+
+<!-- ************************************CHAMPS non OBLIGATOIRE************************************************** -->
+<reference>reference#</reference>
+<latitude>32.45454</latitude>
+<longitude>34.44545</longitude>
+<pieces>3</pieces>
+<salle_de_bain>2</salle_de_bain>
+<chambres>2</chambres>
+<etage>1</etage>
+<date_de_construction>2022</date_de_construction>
+<parking>true</parking>
+<jardin>false</jardin>
+<piscine>true</piscine>
+<meuble>false</meuble>
+<terrace>false</terrace>
+<climatise>true</climatise>
+<cave>true</cave>
+<syndic>false</syndic>
+<ascenseur>true</ascenseur>
+<securite>true</securite>
+<photos>
+<photo>
+<!-- https://img-19.ccm2.net/WNCe54PoGxObY8PCXUxMGQ0Gwss=/480x270/smart/d8c10e7fd21a485c909a5b4c5d99e611/ccmcms-commentcamarche/20456790.jpg -->
+</photo>
+<photo>
+<!-- https://img-19.ccm2.net/WNCe54PoGxObY8PCXUxMGQ0Gwss=/480x270/smart/d8c10e7fd21a485c909a5b4c5d99e611/ccmcms-commentcamarche/20456790.jpg -->
+</photo>
+<photo>
+<!-- https://img-19.ccm2.net/WNCe54PoGxObY8PCXUxMGQ0Gwss=/480x270/smart/d8c10e7fd21a485c909a5b4c5d99e611/ccmcms-commentcamarche/20456790.jpg -->
+</photo>
+</photos>
+</annonce>
+</MULTI_XML>

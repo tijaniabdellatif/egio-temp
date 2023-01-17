@@ -1,0 +1,82 @@
+.noselect {
+    -webkit-touch-callout: none;
+    /* iOS Safari */
+    -webkit-user-select: none;
+    /* Safari */
+    -khtml-user-select: none;
+    /* Konqueror HTML */
+    -moz-user-select: none;
+    /* Old versions of Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer/Edge */
+    user-select: none;
+    /* Non-prefixed version, currently
+    supported by Chrome, Edge, Opera and Firefox */
+}
+
+.ml-select {
+    position: relative;
+    font-size: 13px;
+}
+
+.ml-select-input {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M2 5l6 6 6-6'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right 0.75rem center;
+    background-size: 16px 12px;
+    font-size: 14px;
+}
+
+.ml-select .ml-select-options{
+    position: absolute;
+    width: 100%;
+    top: 100%;
+    background: white;
+    z-index: 11;
+    max-height: 100px;
+    overflow-y: scroll;
+    display: none;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    max-height: 200px;
+    overflow-y: scroll;
+    padding: 5px 0;
+    display: block;
+}
+
+/* light scroll */
+.ml-select .ml-select-options::-webkit-scrollbar {
+    width: 0.5em;
+}
+
+/* background color */
+.ml-select .ml-select-options::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+.ml-select .ml-select-options .ml-select-option{
+    padding: 5px;
+    cursor: pointer;
+}
+
+.ml-select .ml-select-options .ml-select-option:hover {
+    background-color: #f5f5f5;
+}
+
+.ml-select-input:focus + .ml-select-options{
+    display: block;
+}
+
+.ml-select .ml-select-options:hover {
+    /*display: block;*/
+}
+
+.ml-select .ml-select-options .ml-selected-option{
+    background-color: #0d5becab;
+    color:white;
+}
+
+.ml-select .ml-select-options .ml-selected-option:hover {
+    background-color: #0a4ecbab;
+    color:white;
+}

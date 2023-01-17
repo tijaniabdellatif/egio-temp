@@ -1,0 +1,17 @@
+[
+    {
+        "name": "About Us",
+        "folder": "aboutUs",
+        "lang": "fr"
+    },
+    {
+        "name": "Privacy",
+        "folder": "privacy",
+        "lang": "fr"
+    },
+    {
+        "name": "Cookies",
+        "folder": "cookies",
+        "lang": "fr"
+    }
+]

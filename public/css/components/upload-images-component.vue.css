@@ -1,0 +1,74 @@
+.upload-images {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    background: rgb(242, 242, 242);
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px dashed rgb(77, 77, 77);
+    cursor: pointer;
+}
+
+.upload-images .upload-images-progress {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 100%;
+    background: linear-gradient(-45deg, #1324a355, #1187ef55, #04026e55, #35b8f955, #1315a355);;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    background-size: 400% 400%;
+    animation: gradient 6s ease infinite;
+    transition: width 1s ease-in-out;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.upload-images .upload-progress-text {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-size: 12px;
+    color: black;
+    font-weight: 600;
+    z-index: 9;
+}
+
+.upload-images .img-thumbnail {
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    z-index: 7;
+}
+
+.upload-images .img-thumbnail .btn-remove {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 4px;
+    font-size: 8px;
+    background: red;
+    color: white;
+    border-radius: 50%;
+    border: none;
+    height: 16px;
+    width: 16px;
+}

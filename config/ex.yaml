@@ -1,0 +1,18 @@
+ -   name: Setup Enviroment
+                uses: shivammathur/setup-php@v2
+                with:
+                    php-version: '7.4'
+            -   name: update Composer
+                run: composer update
+            -   name: Install Packages
+                run: composer install --no-dev
+            -   name: Deploy to Server
+                uses: ngocquyhoang/deploy@laravel
+                with:
+                    user: listco
+                    host: 169.61.124.250
+                    port: 22
+                    path: /Multilist_Web/
+                    owner: listco
+                env:
+                    DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}

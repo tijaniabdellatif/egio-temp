@@ -1,0 +1,451 @@
+.multilist-icons{
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-size: inherit;
+    font-variant: normal;
+    line-height: 1;
+    text-rendering: auto;
+    vertical-align:middle;
+}
+
+.multilist-listcoin::before{
+    content:" ";
+    background-image: url('listcoin.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+
+.multilist-bed::before{
+    content:" ";
+    background-image: url('bed.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+
+.multilist-bullhorn::before{
+    content:" ";
+    background-image: url('bullhorn.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+
+.multilist-camera::before{
+    content:" ";
+    background-image: url('camera.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+
+.multilist-cave::before{
+    content:" ";
+    background-image: url('cave.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+
+.multilist-elevator::before{
+    content:" ";
+    background-image: url('elevator.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+
+.multilist-mail::before{
+    content:" ";
+    background-image: url('mail.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+
+.multilist-parking::before{
+    content:" ";
+    background-image: url('parking.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+
+.multilist-phone::before{
+    content:" ";
+    background-image: url('phone.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+
+.multilist-pool::before{
+    content:" ";
+    background-image: url('pool.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+
+.multilist-snowflake::before{
+    content:" ";
+    background-image: url('snowflake.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+
+.multilist-sofa::before{
+    content:" ";
+    background-image: url('sofa.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+
+.multilist-terrasse::before{
+    content:" ";
+    background-image: url('terrase.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+
+.multilist-tree::before{
+    content:" ";
+    background-image: url('tree.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+
+.multilist-syndic::before{
+    content:" ";
+    background-image: url('syndic.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+
+.multilist-phone-white::before{
+    content:" ";
+    background-image: url('phone-white.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+
+.multilist-bath::before{
+    content:" ";
+    background-image: url('bath.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+
+.multilist-location::before{
+    content:" ";
+    background-image: url('location.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-surface::before{
+    content:" ";
+    background-image: url('surface.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-date::before{
+    content:" ";
+    background-image: url('date.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+
+.multilist-time::before{
+    content:" ";
+    background-image: url('time.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+
+.multilist-guardian::before{
+    content:" ";
+    background-image: url('gardiennage.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+
+.multilist-green_spaces::before{
+    content:" ";
+    background-image: url('green_spaces.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-automation::before{
+    content:" ";
+    background-image: url('automation.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-sea_view::before{
+    content:" ";
+    background-image: url('sea_view.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-guardian::before{
+    content:" ";
+    background-image: url('gardiennage.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-box::before{
+    content:" ";
+    background-image: url('box.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-equipped_kitchen::before{
+    content:" ";
+    background-image: url('equipped_kitchen.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-soundproof::before{
+    content:" ";
+    background-image: url('soundproof.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-thermalinsulation::before{
+    content:" ";
+    background-image: url('thermalinsulation.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-playground::before{
+    content:" ";
+    background-image: url('playground.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-gym::before{
+    content:" ";
+    background-image: url('gym.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-Chimney::before{
+    content:" ";
+    background-image: url('Chimney.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-library::before{
+    content:" ";
+    background-image: url('library.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-double_orientation::before{
+    content:" ";
+    background-image: url('double_orientation.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-intercom::before{
+    content:" ";
+    background-image: url('intercom.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-garage::before{
+    content:" ";
+    background-image: url('garage.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-double_glazing::before{
+    content:" ";
+    background-image: url('double_glazing.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-sportterrains::before{
+    content:" ";
+    background-image: url('sportterrains.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-category::before{
+    content:" ";
+    background-image: url('category.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-stairs::before{
+    content:" ";
+    background-image: url('stairs.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}
+.multilist-price-per-meter::before{
+    content:" ";
+    background-image: url('price-per-meter.svg');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    height:1em;
+    width:1em;
+}

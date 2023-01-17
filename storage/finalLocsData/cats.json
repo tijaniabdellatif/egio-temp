@@ -1,0 +1,221 @@
+{
+    "data":[
+       {
+          "id":"10039",
+          "title":"Appartements \u00e0 vendre",
+          "parent_cat": 1,
+          "type": "vente",
+          "is_project": 0
+       },
+       {
+          "id":"10040",
+          "title":"Villas \u00e0 vendre",
+          "parent_cat": 1,
+          "type": "location",
+          "is_project": 0
+       },
+       {
+          "id":"10042",
+          "title":"Appartements \u00e0 louer",
+          "parent_cat": 1,
+          "type": "location",
+          "is_project": 0
+       },
+       {
+          "id":"10043",
+          "title":"Villas \u00e0 louer",
+          "parent_cat": 1,
+          "type": "location",
+          "is_project": 0
+       },
+       {
+          "id":"10049",
+          "title":"Studios \u00e0 vendre",
+          "parent_cat": 1,
+          "type": "vente",
+          "is_project": 0
+       },
+       {
+          "id":"10050",
+          "title":"Maisons \u00e0 vendre",
+          "parent_cat": 1,
+          "type": "vente",
+          "is_project": 0
+       },
+       {
+          "id":"10051",
+          "title":"Studios \u00e0 louer",
+          "parent_cat": 1,
+          "type": "location",
+          "is_project": 0
+       },
+       {
+          "id":"10052",
+          "title":"Maisons \u00e0 louer",
+          "parent_cat": 1,
+          "type": "location",
+          "is_project": 0
+       },
+       {
+          "id":"10054",
+          "title":"Terrains agricoles \u00e0 vendre",
+          "parent_cat": 4,
+          "type": "vente",
+          "is_project": 0
+       },
+       {
+          "id":"10055",
+          "title":"Terrains \u00e0 nus \u00e0 vendre",
+          "parent_cat": 4,
+          "type": "vente",
+          "is_project": 0
+       },
+       {
+          "id":"10056",
+          "title":"Terrains \u00e0 louer",
+          "parent_cat": 4,
+          "type": "location",
+          "is_project": 0
+       },
+       {
+          "id":"10058",
+          "title":"Bureaux \u00e0 louer",
+          "parent_cat": 2,
+          "type": "location",
+          "is_project": 0
+       },
+       {
+          "id":"10059",
+          "title":"Locaux commerciaux \u00e0 louer",
+          "parent_cat": 2,
+          "type": "location",
+          "is_project": 0
+       },
+       {
+          "id":"10060",
+          "title":"Locaux industriels \u00e0 louer",
+          "parent_cat": 2,
+          "type": "location",
+          "is_project": 0
+       },
+       {
+          "id":"10061",
+          "title":"Entrep\u00f4ts et d\u00e9p\u00f4ts \u00e0 louer",
+          "parent_cat": 2,
+          "type": "location",
+          "is_project": 0
+       },
+       {
+          "id":"10063",
+          "title":"Bureaux \u00e0 vendre",
+          "parent_cat": 2,
+          "type": "vente",
+          "is_project": 0
+       },
+       {
+          "id":"10064",
+          "title":"Locaux commerciaux \u00e0 vendre",
+          "parent_cat": 2,
+          "type": "vente",
+          "is_project": 0
+       },
+       {
+          "id":"10065",
+          "title":"Locaux industriels \u00e0 vendre",
+          "parent_cat": 2,
+          "type": "vente",
+          "is_project": 0
+       },
+       {
+          "id":"10066",
+          "title":"Entrep\u00f4ts et d\u00e9p\u00f4ts \u00e0 vendre",
+          "parent_cat": 2,
+          "type": "vente",
+          "is_project": 0
+       },
+       {
+          "id":"10068",
+          "title":"Appartements courte dur\u00e9e",
+          "parent_cat": 5,
+          "type": "vacance",
+          "is_project": 0
+       },
+       {
+          "id":"10069",
+          "title":"Chambre \u00e0 louer",
+          "parent_cat": 5,
+          "type": "vacance",
+          "is_project": 0
+       },
+       {
+          "id":"10070",
+          "title":"Bungalows, Cabanons, Chalets",
+          "parent_cat": 5,
+          "type": "vacance",
+          "is_project": 0
+       },
+       {
+          "id":"10071",
+          "title":"Villas, riads courte dur\u00e9e",
+          "parent_cat": 5,
+          "type": "vacance",
+          "is_project": 0
+       },
+       {
+          "id":"10082",
+          "title":"PROJETS DE VILLAS",
+          "parent_cat": 3,
+          "type": "vente",
+          "is_project": 1
+       },
+       {
+          "id":"10080",
+          "title":"PROJETS D'APPARTEMENTS",
+          "parent_cat": 3,
+          "type": "vente",
+          "is_project": 1
+       },
+       {
+          "id":"10076",
+          "title":"Projets de Lotissements de Terrains",
+          "parent_cat": 4,
+          "type": "vente",
+          "is_project": 1
+       },
+       {
+          "id":"10086",
+          "title":"Projets Locaux Commerciaux",
+          "parent_cat": 2,
+          "type": "vente",
+          "is_project": 1
+       },
+       {
+          "id":"10087",
+          "title":"Projets Bureaux",
+          "parent_cat": 2,
+          "type": "vente",
+          "is_project": 1
+       },
+       {
+          "id":"10088",
+          "title":"Projets Locaux industriels",
+          "parent_cat": 2,
+          "type": "vente",
+          "is_project": 1
+       },
+       {
+          "id":"10089",
+          "title":"Riads \u00e0 vendre",
+          "parent_cat": 1,
+          "type": "vente",
+          "is_project": 0
+       },
+       {
+          "id":"10090",
+          "title":"Fermes",
+          "parent_cat": 4,
+          "type": "vente",
+          "is_project": 0
+       }
+    ]
+ }

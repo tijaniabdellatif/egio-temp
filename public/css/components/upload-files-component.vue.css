@@ -1,0 +1,98 @@
+.upload-files {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    background: rgb(242, 242, 242);
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px dashed rgb(77, 77, 77);
+    cursor: pointer;
+}
+
+.upload-files.is-invalid{
+    border-color: #dc3545;
+    color: #dc3545;
+}
+
+.upload-files .upload-files-progress {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 100%;
+    background-repeat: repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    transition: width 1s ease-in-out;
+    background: linear-gradient(-45deg,
+            rgb(255, 255, 255) 25%,
+            rgb(206, 206, 206) 25%,
+            rgb(206, 206, 206) 50%,
+            rgb(255, 255, 255) 50%,
+            rgb(255, 255, 255) 75%,
+            rgb(206, 206, 206) 75%,
+            rgb(206, 206, 206));
+    z-index: 1;
+    background-size: 50px 50px;
+    animation: move 2s linear infinite;
+}
+
+
+@keyframes move {
+    0% {
+        background-position: 0 0;
+    }
+
+    100% {
+        background-position: 50px 50px;
+    }
+}
+
+.upload-files .upload-progress-text {
+    position: absolute;
+    bottom: 3px;
+    right: 3px;
+    font-size: 8px;
+    color: black;
+    font-weight: 600;
+    z-index: 9;
+}
+
+.upload-files .progress-placeholder{
+    z-index: 9;
+}
+
+.upload-files .img-thumbnail,
+.upload-files .file-icon {
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    z-index: 7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.upload-files .file-icon {
+    font-size: 50px;
+}
+
+.upload-files .img-thumbnail .btn-remove,
+.upload-files .file-icon .btn-remove {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 4px;
+    font-size: 8px;
+    background: red;
+    color: white;
+    border-radius: 50%;
+    border: none;
+    height: 16px;
+    width: 16px;
+}
